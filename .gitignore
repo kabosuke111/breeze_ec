@@ -1,7 +1,11 @@
+# ルート直下はすべて無視（ホワイトリスト）
+*
+
 !.gitignore
 !docker-compose.yml
 !wp-content/
 !wp-content/**
+
 .env
 .env.example
 wp-content/uploads/
