@@ -4,6 +4,7 @@
         console.log(root);
         const items = root.getElementsByClassName("btns");
         const searchBox = document.querySelector('.is-search-input');
+        console.log(searchBox);
     
         let wordArr = [];
         Array.from(items).forEach((item)=>{
@@ -15,6 +16,8 @@
                     wordArr.push(e.target.value);
                 }
                 console.log(wordArr);
+                
+                searchBox.value = wordArr.join(' ');
             });
         });
     });
