@@ -4,8 +4,8 @@ wp-content/uploads/
 wp-content/cache/
 wp-content/upgrade/
 wp-content/upgrade-temp-backup/
-wp-content/twentytwentyfour/
-wp-content/twentytwentythree/
+wp-content/themes/twentytwentyfour/
+wp-content/themes/twentytwentythree/
 wp-content/ewww/
 wp-content/languages/
 *.log
