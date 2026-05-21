@@ -1,0 +1,14 @@
+.env
+.env.example
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+wp-content/twentytwentyfour/
+wp-content/twentytwentythree/
+wp-content/ewww/
+wp-content/languages/
+wp-content/
+wp-content/
+*.log
+.DS_Store
