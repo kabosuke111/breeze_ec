@@ -1,3 +1,7 @@
+!.gitignore
+!docker-compose.yml
+!wp-content/
+!wp-content/**
 .env
 .env.example
 wp-content/uploads/
